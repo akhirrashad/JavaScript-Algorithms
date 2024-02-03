@@ -75,6 +75,7 @@ function fightDragon() {
 function buyHealth() {
     gold -= 10;
     health += 10;
+    const total = document.querySelector(#goldText);
 }
 
 function buyWeapon() {   
